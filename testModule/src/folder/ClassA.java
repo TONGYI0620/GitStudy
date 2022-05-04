@@ -14,5 +14,6 @@ public class ClassA {
     @Test
     public void methodA () {
         System.out.println("This is devA ClassA.methodA ");
+        System.out.println("ClassA add new string");
     }
 }
