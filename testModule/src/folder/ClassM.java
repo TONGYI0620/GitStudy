@@ -13,6 +13,6 @@ public class ClassM {
     @Test
     public void methodM () {
         System.out.println("This is devA ClassM.methodM ");
-        System.out.println("ClassM add new string");
+        System.out.println("dev A add new string");
     }
 }
