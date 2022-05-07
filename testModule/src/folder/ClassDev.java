@@ -13,5 +13,6 @@ public class ClassDev {
     @Test
     public void methodM () {
         System.out.println("This is dev branch");
+        System.out.println("dev C add new string");
     }
 }
